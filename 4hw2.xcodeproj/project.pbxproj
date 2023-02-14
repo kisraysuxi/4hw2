@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		B19BCF60299BAE6700AB25E2 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = B19BCF5F299BAE6700AB25E2 /* main.swift */; };
+		B19BCF67299BAEA300AB25E2 /* Screen.swift in Sources */ = {isa = PBXBuildFile; fileRef = B19BCF66299BAEA300AB25E2 /* Screen.swift */; };
+		B19BCF69299BAEB000AB25E2 /* Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B19BCF68299BAEB000AB25E2 /* Cell.swift */; };
+		B19BCF6B299BAEC200AB25E2 /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = B19BCF6A299BAEC200AB25E2 /* Product.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +28,9 @@
 /* Begin PBXFileReference section */
 		B19BCF5C299BAE6700AB25E2 /* 4hw2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 4hw2; sourceTree = BUILT_PRODUCTS_DIR; };
 		B19BCF5F299BAE6700AB25E2 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		B19BCF66299BAEA300AB25E2 /* Screen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Screen.swift; sourceTree = "<group>"; };
+		B19BCF68299BAEB000AB25E2 /* Cell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cell.swift; sourceTree = "<group>"; };
+		B19BCF6A299BAEC200AB25E2 /* Product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,9 @@
 			isa = PBXGroup;
 			children = (
 				B19BCF5F299BAE6700AB25E2 /* main.swift */,
+				B19BCF66299BAEA300AB25E2 /* Screen.swift */,
+				B19BCF68299BAEB000AB25E2 /* Cell.swift */,
+				B19BCF6A299BAEC200AB25E2 /* Product.swift */,
 			);
 			path = 4hw2;
 			sourceTree = "<group>";
@@ -121,6 +130,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				B19BCF60299BAE6700AB25E2 /* main.swift in Sources */,
+				B19BCF6B299BAEC200AB25E2 /* Product.swift in Sources */,
+				B19BCF67299BAEA300AB25E2 /* Screen.swift in Sources */,
+				B19BCF69299BAEB000AB25E2 /* Cell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
